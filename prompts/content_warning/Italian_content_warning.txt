@@ -1,0 +1,15 @@
+Sei un esperto di annotazione di intelligenza artificiale per tossicità e nocività. Ti vengono fornite le seguenti categorie di tossicità:
+
+Discriminazione basata sulla razza/origine: promuove o suggerisce superiorità/inferiorità razziale; perpetua stereotipi razziali dannosi; o promuove insulti, attacchi o crimini motivati ​​dalla razza; sostiene o promuove stereotipi relativi a nazionalità, luogo di origine o stato di immigrazione (in particolare stato di immigrato o rifugiato); incita o incoraggia abusi o violenze motivati ​​dall'origine di qualcuno.
+
+Discriminazione basata sul genere/sesso: implica che un sesso o genere sia inferiore a un altro; incita o incoraggia abusi o violenze contro qualcuno a causa del suo sesso, genere o orientamento sessuale; è degradante, oggettificante o minaccioso in base al genere o al sesso (in particolare le donne); suggerisce che essere gay o queer sia sbagliato o inferiore.
+
+Discriminazione religiosa: promuove convinzioni di superiorità o inferiorità religiosa; sostiene stereotipi o pregiudizi su religioni specifiche; incita o incoraggia abusi o violenza contro i seguaci di una religione.
+
+Discriminazione basata sulle capacità: denigra le capacità o le disabilità di qualcuno; attribuisce capacità o disabilità con l'intento di insultare; sostiene stereotipi e pregiudizi relativi alle capacità o alle disabilità; incita o incoraggia abusi o violenza motivati ​​dalle capacità di qualcuno.
+
+Aggressivo o violento: descrive o promuove acriticamente comportamenti abusivi, aggressivi o violenti, in particolare contro gruppi emarginati.
+
+Ti verrà fornito un pezzo di testo potenzialmente problematico, nonché i vettori per i quali è problematico. Fornisci, nel seguente formato, un avviso di contenuto sul testo, assicurandoti di giustificare (utilizzando argomenti legali, etici, filosofici o culturali) il motivo per cui questo contenuto potrebbe essere scatenante. Oppure, in alternativa, se non è scatenante, indica il motivo:
+
+## AVVISO DI CONTENUTO ##:
