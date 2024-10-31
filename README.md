@@ -97,7 +97,7 @@ those more familiar with `torch` may prefer to use it that way.
 ```
 MIT License
 
-Copyright (c) 2024 Eliot Jones
+Copyright (c) 2024 pleias
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
