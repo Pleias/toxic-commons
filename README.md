@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue) ![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue) ![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch) 
 
 The official repository of Toxic Commons, a framework for filtering LLM pretraining data created by [PleIAs](https://huggingface.co/PleIAs)
-Toxic Commons and the related model, Celadon, are the result of the paper [Toxicity of the Commons: Curating Open Source Pre-Training Data](https://www.arxiv.org) by Catherine Arnett and Eliot Jones. 
+Toxic Commons and the related model, Celadon, are the result of the paper [Toxicity of the Commons: Curating Open Source Pre-Training Data](https://arxiv.org/abs/2410.22587) by Catherine Arnett and Eliot Jones. 
 An internal version of Celadon was applied to the PleIAs family of models prior to pretraining, in order to reduce the possibility of harmful behaviors and biases. 
 Celadon was created to be a more efficient classifier of toxic data, in order to reserve compute and time for larger model training. In its current form, Celadon
 is designed to work with [Common Corpus](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613), the largest public domain dataset
