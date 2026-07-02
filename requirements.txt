@@ -1,6 +1,6 @@
 vllm==0.6.3.post1
 pandas==2.2.3
 numpy==1.26.4
-transformers==4.45.2
+transformers==5.3.0
 torch==2.4.0
 datasets==3.0.1
